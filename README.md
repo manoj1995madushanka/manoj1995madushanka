@@ -1,4 +1,4 @@
-![Manoj Madushanka Banner](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg)
+![Manoj Madushanka Banner](https://www.canva.com/design/DAFI2m86yt0/view)
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Manoj Madushanka</h2>
 
