@@ -1,4 +1,4 @@
-![Manoj Madushanka Banner](https://www.canva.com/design/DAFI2m86yt0/view)
+![Manoj Madushanka Banner](https://imgur.com/a/40oiXas)
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Manoj Madushanka</h2>
 
