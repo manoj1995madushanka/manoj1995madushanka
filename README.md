@@ -4,11 +4,11 @@
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently working as a Senior Software Engineer at HCL Technologies.\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
-✍️ &nbsp;In my free time, I pursue follow video tutorials, read medium articles as hobbies/side hustles.\
+🌱 &nbsp;I'm on track for learning more about Microservices, Angular, Flutter, Springboot and CICD.\
+✍️ &nbsp;In my free time, I pursue follow video tutorials, read medium articles and cycling as hobbies/side hustles.\
 💬 &nbsp;Feel free to reach out to me for offers and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at madushankamanoj414@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://www.abcd.com) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [Résumé](https://www.abcd.com) for more details about me. 
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
